@@ -16,7 +16,7 @@ We'll be roughly following the quickstart guide here(https://facebook.github.io/
 **Windows**:
 After installing Node.js, open the start menu, and search for "Node.js command prompt", this is what we will use for development.
 
-![Node.js command prompt]()
+![Node.js command prompt](node-js-cmd-prompt.PNG)
 
 Open the program, it should be a simple command prompt with the following line on top:
 
