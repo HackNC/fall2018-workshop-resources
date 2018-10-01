@@ -2,7 +2,7 @@
 
 ### Installing Node.js
 
-If you already have Node.js and is familiar with the framework, feel free
+If you already have Node.js and are familiar with the framework, feel free
 to skip this part of the tutorial.
 
 Otherwise, go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) and click the **Windows Installer (.msi)** if you are on Windows or **macOS Installer (.pkg)** link to download the installer.
@@ -14,7 +14,7 @@ Then use the installer to install on your machine.
 We'll be roughly following the quickstart guide here [https://facebook.github.io/react-native/docs/getting-started](https://facebook.github.io/react-native/docs/getting-started), albeit with a bit more details.
 
 **Windows**:
-After installing Node.js, open the start menu, and search for "Node.js command prompt", this is what we will use for development.
+After installing Node.js, open the start menu, and search for "Node.js command prompt." This is what we will use for development.
 
 ![Node.js command prompt](node-js-cmd-prompt.PNG)
 
@@ -35,7 +35,7 @@ npm install -g create-react-native-app
 
 Enter `y` when prompted if you want to install the package globally.
 
-To create a sample project (as you would do in the workshop), named 'SampleProject' run
+To create a sample project (as you would do in the workshop) named 'SampleProject', run
 ```
 create-react-native-app SampleProject
 ```
