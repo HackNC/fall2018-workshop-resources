@@ -24,5 +24,11 @@ def reset():
     x = 0
     return "x has been reset"
 
+@app.route("/incr_by/<int:n>")
+def incr_by(n):
+    global x
+    x = x + n
+    return "x has been incremented by " + int(n)
+
 if __name__ == "__main__":
     app.run(host = "0.0.0.0", port = 8000, debug = True)
