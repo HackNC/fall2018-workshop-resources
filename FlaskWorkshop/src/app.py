@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, request
 
 app = Flask(__name__)
 
@@ -44,8 +44,10 @@ def form():
 
 @app.route("/form_endpt/", methods = ['GET', 'POST'])
 def handle_form():
-    print("got form!")
-    return "got form!"
+    n = int(request.form['n'])
+    global x
+    x = x + n
+    return "got form, incr by " + str(n)
 
 if __name__ == "__main__":
     app.run(host = "0.0.0.0", port = 8000, debug = True)
