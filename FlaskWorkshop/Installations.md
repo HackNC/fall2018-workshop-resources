@@ -28,7 +28,7 @@ Then click through until installation finishes.
 
 ## Installing Flask
 
-Open up the command line utility for your operating system (Command Prompt on Windows and Terminal on Macs), first verify that everything is correctly by typing
+Open up the command line utility for your operating system (Command Prompt on Windows and Terminal on Macs). Verify that everything is working correctly by typing
 ```
 python
 ```
