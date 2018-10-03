@@ -8,7 +8,7 @@ We'll be using python 3.6.6 for the workshop (but if you have python installed, 
 
 Macs typically come preinstalled with python. To make sure you have python, open Terminal and type `python` and hit enter. If you have python installed you should see something like this:
 ```
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 17:00:18) [MSC v.1900 64 bit (AMD64)] on win32
+Python 3.6.6 (v3.6.6:4cf1f54eb7, Jun 27 2018, 03:37:03) [MSC v.1900 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
