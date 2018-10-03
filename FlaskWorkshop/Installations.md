@@ -36,6 +36,10 @@ Then to install flask, simply type
 ```
 pip install flask
 ```
+If you receive a permission error when running the above command try this (you will be prompted for your password)
+```
+sudo pip install flask
+```
 
 To verify that the installation worked, enter python again by typing `python`, then make sure that the following lines execute with no errors:
 ```
