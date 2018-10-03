@@ -4,6 +4,17 @@
 
 We'll be using python 3.6.6 for the workshop (but if you have python installed, just make sure it's python3).
 
+### Mac
+
+Macs typically come preinstalled with python. To make sure you have python, open Terminal and type `python` and hit enter. If you have python installed you should see something like this:
+```
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 17:00:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+### Windows
+
 First let's download the installer [here](https://www.python.org/downloads/release/python-366/) for your approporiate operating system (select the "executable installer" for Windows), then click "Customize Installation" with "Add Python 3.6 to PATH" checked.
 
 ![first-pane.png](first-pane.PNG)
