@@ -30,5 +30,22 @@ def incr_by(n):
     x = x + n
     return "x has been incremented by " + int(n)
 
+@app.route("/form/")
+def form():
+    form_html = """
+    <body>
+        <form action="/form_endpt/" method='post'>
+            <input name='n'>
+            <button type='submit'>Submit</button>
+        </form>
+    </body>
+    """
+    return form_html
+
+@app.route("/form_endpt/", methods = ['GET', 'POST'])
+def handle_form():
+    print("got form!")
+    return "got form!"
+
 if __name__ == "__main__":
     app.run(host = "0.0.0.0", port = 8000, debug = True)
