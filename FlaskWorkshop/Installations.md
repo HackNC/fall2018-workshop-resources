@@ -44,18 +44,19 @@ Type
 ```
 To get back to the command line.
 
-Then to install flask, simply type
-```
-pip install flask
-```
-
-## For Macs Only
+## Mac
 ```
 pip3 install flask
 ```
 If you receive a permission error when running the above command try this (you will be prompted for your password)
 ```
 sudo pip3 install flask
+```
+
+## Windows
+Then to install flask, simply type
+```
+pip install flask
 ```
 
 To verify that the installation worked, enter python again by typing `python3`, then make sure that the following lines execute with no errors:
