@@ -44,7 +44,7 @@ Type
 ```
 To get back to the command line.
 
-## Mac
+### Mac
 ```
 pip3 install flask
 ```
@@ -53,7 +53,7 @@ If you receive a permission error when running the above command try this (you w
 sudo pip3 install flask
 ```
 
-## Windows
+### Windows
 Then to install flask, simply type
 ```
 pip install flask
