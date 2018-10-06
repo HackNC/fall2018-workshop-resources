@@ -9,3 +9,6 @@
   *  scikit-learn (http://scikit-learn.org)
 
 The documentation for these libraries are great, so keep that in mind!
+
+2. Download or clone this repo
+3. Open this repo in a Jupyter Notebook
