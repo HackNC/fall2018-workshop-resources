@@ -59,6 +59,8 @@ Then to install flask, simply type
 pip install flask
 ```
 
+### Verifying Installation
+
 To verify that the installation worked, enter python again by typing `python3`, then make sure that the following lines execute with no errors:
 ```
 >>> import flask
