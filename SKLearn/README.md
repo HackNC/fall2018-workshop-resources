@@ -9,3 +9,5 @@
   *  scikit-learn (http://scikit-learn.org)
 
 The documentation for these libraries are great, so keep that in mind!
+
+* Explanation of the methods was discussed during the live session and can be found here (360° Live Recording): https://youtu.be/9fyQSOgbpNQ
