@@ -12,3 +12,5 @@ The documentation for these libraries are great, so keep that in mind!
 
 2. Download or clone this repo
 3. Open this repo in a Jupyter Notebook
+
+* Explanation of the methods was discussed during the live session and can be found here (360° Live Recording): https://youtu.be/9fyQSOgbpNQ
